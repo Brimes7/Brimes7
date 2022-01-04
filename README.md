@@ -4,7 +4,7 @@ Hello World! Our very first sentence we run in any new language us devs learn. M
 
 I am an aspiring software engineer that day by day realizes there is always new things to learn! My late mentor had one of the most brilliant programming minds I have ever known. Thinking outside of the box or even backwards was something he always told us to implement with new algorithms or even real world solutions. As Mr Eddison says, "I've not failed, I've just found 10,000 ways that won't work."
 
-Programming is all about never giving up. We find bugs to fix to then unveil 10 new bugs hidden behind the one small bug. Once we have perfected those we move on to either upgrade and release new versions or begin new projects all together and do it all over again. Feel free to connect with me as I navigate this ever-changing ocean of new languages to become a stronger software engineer then I am today.
+Thanks to COVID me and my family faced quite a bit of set backs in 2021 but this year -2022- my goal is to jump into the software engineering job industry head first! Programming is all about never giving up. We find bugs to fix to then unveil 10 new bugs hidden behind the one small bug. Once we have perfected those we move on to either upgrade and release new versions or begin new projects all together and do it all over again. Feel free to connect with me as I navigate this ever-changing ocean of new languages to become a stronger software engineer then I am today.
 
 ### Connect with Me!
 
